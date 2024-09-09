@@ -29,14 +29,15 @@
 .Weather img {
     height: 64px;
     width: 64px;
+    float: left;
     margin-right: 10px;
-    display: inline-block;
 }
 
 .Weather .temperature {
  font-weight: bold;
  color: rgb(33, 33, 33);
- font-size: 64px;
+ float: left;
+ font-size: 60px;
  line-height: 64px;
  font-weight: 400;
 }
@@ -47,6 +48,5 @@ font-size: 16px;
 font-weight: 400;
 position: relative;
 line-height: 1;
-top: -34px;
-margin-left: 5px;
+top: 1px;
 }

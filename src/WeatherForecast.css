@@ -18,3 +18,8 @@
     opacity: 0.6;
     margin-left: 5px;
 }
+
+.WeatherIcon {
+    display: block;
+    margin-bottom: 5px;
+}

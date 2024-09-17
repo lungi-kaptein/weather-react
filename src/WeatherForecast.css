@@ -24,7 +24,8 @@
     margin-left: 5px;
 }
 
-.WeatherIcon {
+.Weather .WeatherForecast canvas {
     display: block;
-    margin-bottom: 5px;
+    margin: 20px auto; 
+    margin-left: 10px;
 }

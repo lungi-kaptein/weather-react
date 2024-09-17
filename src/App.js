@@ -10,8 +10,8 @@ function App() {
       <div className="container">
       <Weather defaultCity="Cape Town" />
       <footer>
-        This project was coded by <a href="https://lungi-portfolio.netlify.app/" target="_blank" rel="noreferrer">Lungi Kaptein</a> and is {" "}
-        <a href="https://github.com/lungi-kaptein/weather-react" target="_blank" rel="noreferrer"> 
+        This project was coded by <a href="https://lungi-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Lungi Kaptein</a> and is {" "}
+        <a href="https://github.com/lungi-kaptein/weather-react" target="_blank" rel="noopener noreferrer"> 
         open-sourced on GitHub</a>
       </footer>
       </div>
